@@ -10,7 +10,7 @@
     android:clickable="true"
     android:focusable="true">
 
-    <!-- FRONT SIDE -->
+    <!-- Front card -->
     <LinearLayout
         android:id="@+id/cardFront"
         android:layout_width="match_parent"
@@ -65,7 +65,7 @@
 
     </LinearLayout>
 
-    <!-- BACK SIDE -->
+    <!-- Back card -->
     <LinearLayout
         android:id="@+id/cardBack"
         android:layout_width="match_parent"

@@ -7,10 +7,13 @@
     <string name="sad">SAD</string>
     <string name="logo_desc">App logo</string>
     <string name="next">NEXT</string>
+
+    <!-- Error Handling -->
     <string name="error_empty">You forgot about me!</string>
     <string name="error_too_long">Too long!</string>
     <string name="error_too_short">Keep going!</string>
     <string name="error_invalid_time">Opps! choose one: morning, afternoon, evening or night</string>
+
     <string name="time_of_day">TIME OF DAY</string>
     <string name="how_are_you_feeling">HOW ARE YOU FEELING TODAY?</string>
     <string name="mood_illustration_desc">Mood Illustration</string>
@@ -20,6 +23,7 @@
     <string name="enjoy_your_day">ENJOY YOUR DAY!</string>
     <string name="or_text">OR</string>
 
+    <!-- Suggestions return button text -->
     <string name="enjoy_morning">ENJOY YOUR MORNING!</string>
     <string name="enjoy_afternoon">ENJOY YOUR AFTERNOON!</string>
     <string name="enjoy_evening">ENJOY YOUR EVENING!</string>

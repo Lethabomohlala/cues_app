@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     android:background="#F2ECE5">
 
+    <!-- Splash cloud jump -->
     <ImageView
         android:id="@+id/ivSplashGif"
         android:layout_width="300dp"
