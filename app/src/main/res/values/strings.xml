@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Cues app</string>
+    <string name="write_here">Write here…</string>
+    <string name="energetic">ENERGETIC</string>
+    <string name="calm">CALM</string>
+    <string name="low_energy">LOW ENERGY</string>
+    <string name="sad">SAD</string>
+    <string name="logo_desc">App logo</string>
+    <string name="next">NEXT</string>
+    <string name="error_empty">You forgot about me!</string>
+    <string name="error_too_long">Too long!</string>
+    <string name="error_too_short">Keep going!</string>
+    <string name="error_invalid_time">Opps! choose one: morning, afternoon, evening or night</string>
+    <string name="time_of_day">TIME OF DAY</string>
+    <string name="how_are_you_feeling">HOW ARE YOU FEELING TODAY?</string>
+    <string name="mood_illustration_desc">Mood Illustration</string>
+    <string name="toast_select_mood">Wait! Select a mood first.</string>
+    <string name="toast_success">All set! Your cue is ready.</string>
+    <string name="get_suggestions">GET SUGGESTIONS</string>
+    <string name="enjoy_your_day">ENJOY YOUR DAY!</string>
+    <string name="or_text">OR</string>
+
+    <!-- Energetic Morning -->
+    <string name="sunrise_title">1. SUNRISES ON THE EAST!</string>
+    <string name="hype_check_title">2. MORNING HYPE CHECK!</string>
+    <string name="sunrise_suggestion">INVITE A FRIEND OVER FOR A QUICK MORNING HIKE/JOG</string>
+    <string name="hype_check_suggestion">SEND A POSITIVE MESSAGE OR A MOTIVATIONAL QUOTE TO A FRIEND</string>
+
+    <!-- Energetic Afternoon -->
+    <string name="midday_boost_title">1. SOCIAL MIDDAY BOOST</string>
+    <string name="midday_boost_suggestion">SONG RECOMMENDATION OR SEND A TIKTOK TO A FRIEND</string>
+    <string name="activity_buddy_title">2. ACTIVITY BUDDY</string>
+    <string name="activity_buddy_suggestion">INVITE SOMEONE OUT FOR PADDLE JOIN A COMMUNITY SOCIAL CLUB</string>
+
+    <!-- Energetic Evening -->
+    <string name="golden_hour_title">1. GOLDEN HOUR CONNECTION</string>
+    <string name="golden_hour_suggestion">GO OUT FOR DINNER WITH FAMILY</string>
+    <string name="hit_town_title">2. HIT THE TOWN</string>
+    <string name="hit_town_suggestion">GET READY TO GO OUT FOR A NIGHT OF FUN WITH FRIENDS</string>
+
+    <!-- Energetic Night -->
+    <string name="night_owl_title">1. NIGHT OWL CHAT</string>
+    <string name="night_owl_suggestion">START A LATE CONVERSATION WITH SOMEONE</string>
+    <string name="steer_wheel_title">2. STEER THE WHEEL</string>
+    <string name="steer_wheel_suggestion">INVITE SOMEONE OVER FOR A LATE NIGHT DRIVE</string>
+
+    <!-- Calm Morning -->
+    <string name="earliest_bird_title">1. EARLIEST BIRD CATCHES THE WORM</string>
+    <string name="earliest_bird_suggestion">INVITE SOMEONE FOR BREAKFAST AND READ A BOOK</string>
+    <string name="bookworm_title">2. BOOKWORM</string>
+    <string name="bookworm_suggestion">JOIN A LOCAL BOOKCLUB</string>
+
+    <!-- Calm Afternoon -->
+    <string name="walk_talk_title">1. WALK IT LIKE YOU TALK IT</string>
+    <string name="walk_talk_suggestion">INVITE SOMEONE FOR A RELAXING STROLL OR BREAK TOGETHER</string>
+    <string name="on_leash_title">2. ON A LEASH</string>
+    <string name="on_leash_suggestion">TAKE YOUR PET OUT FOR A WALK</string>
+
+    <!-- Calm Evening -->
+    <string name="send_link_title">1. SEND ME THE LINK</string>
+    <string name="send_link_suggestion">ASK A FRIEND TO WATCH A SHOW/MOVIE TOGETHER VIRTUALLY</string>
+    <string name="log_ticket_title">2. LOG A TICKET</string>
+    <string name="log_ticket_suggestion">BUY A TICKET AND GO TO A CONCERT</string>
+
+    <!-- Calm Night -->
+    <string name="archive_day_title">1. ARCHIVE YOUR DAY</string>
+    <string name="archive_day_suggestion">SHARE AN IMAGE OF THE DAY, TALK ABOUT YOUR EXPERIENCE</string>
+    <string name="namaste_title">2. NAMASTE</string>
+    <string name="namaste_suggestion">DO QUICK YOGA MOVEMENTS WITH A FRIEND ON A VIDEO CALL</string>
+
+    <!-- Low Energy Morning -->
+    <string name="tiny_steps_title">1. TINY SOCIAL STEPS</string>
+    <string name="tiny_steps_suggestion">SEND A SIMPLE “HOPE TODAY IS KIND TO YOU” MESSAGE</string>
+    <string name="caffeine_boost_title">2. CAFFEINE BOOST</string>
+    <string name="caffeine_boost_suggestion">GRAB A HOT BEVERAGE WITH A FRIEND</string>
+
+    <!-- Low Energy Afternoon -->
+    <string name="footnote_title">1. LEAVE A FOOTNOTE</string>
+    <string name="footnote_suggestion">REPLY TO A FRIEND’S POST, STORY OR MESSAGE WITH A SUPPORTIVE COMMENT</string>
+    <string name="unwind_retreat_title">2. UNWIND AND RETREAT</string>
+    <string name="unwind_retreat_suggestion">BOOK A SPA SESSION WITH A FRIEND</string>
+
+    <!-- Low Energy Evening -->
+    <string name="get_back_title">1. GET BACK TO IT</string>
+    <string name="get_back_suggestion">REPLY TO A CONVERSATION YOU PAUSED EARLIER</string>
+    <string name="observe_distance_title">2. OBSERVE FROM A DISTANCE</string>
+    <string name="observe_distance_suggestion">GO TO AN ART GALLERY/EXHIBITION WITH A FRIEND</string>
+
+    <!-- Low Energy Night -->
+    <string name="running_on_e_title">1. RUNNING ON E</string>
+    <string name="running_on_e_suggestion">SEND SOMEONE A QUICK GOOD NIGHT MESSAGE</string>
+    <string name="explore_sky_title">2. EXPLORE THE SKY</string>
+    <string name="explore_sky_suggestion">VIDEO CALL A FRIEND AND STARGAZE TOGETHER</string>
+
+    <!-- Sad Morning -->
+    <string name="comfort_buddy_title">1. COMFORT BUDDY</string>
+    <string name="comfort_buddy_suggestion">REACH OUT TO A FRIEND FOR COMFORT</string>
+    <string name="mood_lifter_title">2. MOOD LIFTER</string>
+    <string name="mood_lifter_suggestion">WATCH A MOTIVATIONAL VIDEO TO LIGHTEN UP YOUR MOOD</string>
+
+    <!-- Sad Afternoon -->
+    <string name="brunch_hug_title">1. BRUNCH HUG</string>
+    <string name="brunch_hug_suggestion">GRAB LUNCH WITH A FRIEND YOU CAN TALK TO</string>
+    <string name="silent_therapy_title">2. SILENT THERAPY</string>
+    <string name="silent_therapy_suggestion">REACH OUT TO SOMEONE AND INVITE THEM OVER FOR A QUIET CHAT, SHARE HOW YOU’RE COPING</string>
+
+    <!-- Sad Evening -->
+    <string name="cards_on_deck_title">1. ALL CARDS ON DECK</string>
+    <string name="cards_on_deck_suggestion">PLAN A GAMES NIGHT OUT WITH YOUR CLOSEST FRIENDS</string>
+    <string name="bigger_picture_title">2. THE BIGGER PICTURE</string>
+    <string name="bigger_picture_suggestion">INVITE FRIENDS OVER FOR A PAINTING OR SCRAPBOOKING SESSION</string>
+
+    <!-- Sad Night -->
+    <string name="next_track_title">1. NEXT TRACK</string>
+    <string name="next_track_suggestion">MAKE OR LISTEN TO A “COMFORT PLAYLIST” WITH A FRIEND</string>
+    <string name="dotted_line_title">2. ON THE DOTTED LINE</string>
+    <string name="dotted_line_suggestion">CREATE A SHARED JOURNAL WITH A FRIEND AND REFLECT ON YOUR CURRENT EMOTIONS</string>
+
+</resources>
