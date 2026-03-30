@@ -1,4 +1,7 @@
 # CUES.
+
+![Banner](images/readme_banner.png)
+
 ![Build Status](https://github.com/Lethabomohlala/cues_app/actions/workflows/build.yml/badge.svg) 
 
 ## Meaning Behind “CUES”
@@ -69,6 +72,14 @@ GitHub Actions was used to automate the build process.
 - GitHub Actions was used to automatically build the app on each push. This verifies that the project compiles successfully at all times  
 
 ## Screenshots
+
+### User Input and Validation
+This screen shows the user entering the time of day and selecting a mood, including validation feedback for incorrect or missing inputs.
+![Input](images/input_screen.png)
+
+### Generated Suggestions
+This screen displays personalized activity suggestions generated based on the user’s selected time of day and mood.
+![Result](images/result_screen.png)
 
 ## Conclusion
 Cues. demonstrates how simple design and thoughtful logic can improve everyday decision-making. By combining mood and time-based inputs, the app delivers quick, meaningful suggestions in a calm and engaging way.
