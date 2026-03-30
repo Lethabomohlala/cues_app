@@ -50,10 +50,10 @@ class SuggestionsActivity : AppCompatActivity() {
         
         // Update greeting based on time
         val greeting = when (selectedTime.lowercase()) {
-            "morning" -> "ENJOY YOUR MORNING!"
-            "afternoon" -> "ENJOY YOUR AFTERNOON!"
-            "evening" -> "ENJOY YOUR EVENING!"
-            "night" -> "ENJOY YOUR NIGHT!"
+            "morning" -> getString(R.string.enjoy_morning)
+            "afternoon" -> getString(R.string.enjoy_afternoon)
+            "evening" -> getString(R.string.enjoy_evening)
+            "night" -> getString(R.string.enjoy_night)
             else -> getString(R.string.enjoy_your_day)
         }
         tvEnjoyDay.text = greeting

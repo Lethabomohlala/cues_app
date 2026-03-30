@@ -7,4 +7,5 @@
     <color name="card_calm">#F6BBDC</color>
     <color name="card_low_energy">#28A85B</color>
     <color name="card_sad">#197DED</color>
+    <color name="grey_hint">#9E9E9E</color>
 </resources>

@@ -20,6 +20,11 @@
     <string name="enjoy_your_day">ENJOY YOUR DAY!</string>
     <string name="or_text">OR</string>
 
+    <string name="enjoy_morning">ENJOY YOUR MORNING!</string>
+    <string name="enjoy_afternoon">ENJOY YOUR AFTERNOON!</string>
+    <string name="enjoy_evening">ENJOY YOUR EVENING!</string>
+    <string name="enjoy_night">ENJOY YOUR NIGHT!</string>
+
     <!-- Energetic Morning -->
     <string name="sunrise_title">1. SUNRISES ON THE EAST!</string>
     <string name="hype_check_title">2. MORNING HYPE CHECK!</string>

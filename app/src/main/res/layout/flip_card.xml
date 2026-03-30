@@ -37,7 +37,7 @@
             android:layout_marginTop="16dp"
             android:layout_marginBottom="16dp"
             android:src="@drawable/cloud_sugg"
-            android:contentDescription="Cloud graphic"/>
+            android:contentDescription="@string/mood_illustration_desc"/>
 
         <TextView
             android:id="@+id/tvFrontTitle2"

@@ -5,7 +5,7 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F2ECE5">
+    android:background="@color/screen_background">
 
     <!-- Label -->
     <ImageView
@@ -27,7 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/time_of_day"
-        android:textColor="#000000"
+        android:textColor="@color/black"
         android:textSize="16sp"
         android:textStyle="bold"
         android:layout_marginBottom="8dp"
@@ -60,8 +60,8 @@
             android:maxLength="10"
             android:paddingStart="20dp"
             android:paddingEnd="20dp"
-            android:textColor="#000"
-            android:textColorHint="#9E9E9E" />
+            android:textColor="@color/black"
+            android:textColorHint="@color/grey_hint" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <!-- Description above mood buttons -->
@@ -70,7 +70,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/how_are_you_feeling"
-        android:textColor="#000000"
+        android:textColor="@color/black"
         android:textSize="16sp"
         android:textStyle="bold"
         android:layout_marginTop="24dp"
@@ -99,8 +99,6 @@
         android:scrollbars="none"
         android:fillViewport="true"
         android:elevation="10dp"
-        android:clickable="true"
-        android:focusable="true"
         app:layout_constraintTop_toBottomOf="@id/tvHowAreYouFeeling"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -115,12 +113,12 @@
             <!-- Energetic -->
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnEnergetic"
+                style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
                 android:layout_width="wrap_content"
                 android:layout_height="48dp"
                 android:text="@string/energetic"
-                android:textColor="#000"
+                android:textColor="@color/black"
                 android:background="@drawable/mood_button_selector"
-                android:backgroundTint="@null"
                 app:backgroundTint="@null"
                 android:paddingStart="24dp"
                 android:paddingEnd="24dp"
@@ -130,12 +128,12 @@
             <!-- Calm -->
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnCalm"
+                style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
                 android:layout_width="wrap_content"
                 android:layout_height="48dp"
                 android:text="@string/calm"
-                android:textColor="#000"
+                android:textColor="@color/black"
                 android:background="@drawable/mood_button_selector"
-                android:backgroundTint="@null"
                 app:backgroundTint="@null"
                 android:paddingStart="24dp"
                 android:paddingEnd="24dp"
@@ -145,27 +143,27 @@
             <!-- Low Energy -->
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnLowEnergy"
+                style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
                 android:layout_width="wrap_content"
                 android:layout_height="48dp"
                 android:layout_marginStart="5dp"
                 android:layout_marginEnd="16dp"
                 android:background="@drawable/mood_button_selector"
-                android:backgroundTint="@null"
                 android:paddingStart="24dp"
                 android:paddingEnd="24dp"
                 android:text="@string/low_energy"
-                android:textColor="#000"
+                android:textColor="@color/black"
                 app:backgroundTint="@null" />
 
             <!-- Sad -->
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnSad"
+                style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
                 android:layout_width="wrap_content"
                 android:layout_height="48dp"
                 android:text="@string/sad"
-                android:textColor="#000"
+                android:textColor="@color/black"
                 android:background="@drawable/mood_button_selector"
-                android:backgroundTint="@null"
                 app:backgroundTint="@null"
                 android:paddingStart="32dp"
                 android:paddingEnd="32dp"
@@ -198,8 +196,8 @@
         android:layout_width="200dp"
         android:layout_height="50dp"
         android:text="@string/next"
-        android:textColor="#FFFFFF"
-        android:backgroundTint="#000000"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
