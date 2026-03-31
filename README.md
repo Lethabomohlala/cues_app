@@ -8,6 +8,12 @@
 ### Demo Video
 Watch the app in action: https://youtu.be/8OqIWdSVxyM
 
+## Author
+- Lethabo Mohlala
+
+## Description
+This project was developed as part of an academic assignment.
+
 ## Meaning Behind “CUES”
 Cues. represents subtle guidance- the small signals that help us make decisions in everyday life. Just like changes in light or mood throughout the day, cues influence our behaviour naturally. This app embraces that idea by offering gentle suggestions, helping users make decisions without overthinking or feeling overwhelmed.
 
@@ -55,6 +61,14 @@ Step 1: Clone the repository:
 - UI: XML / ConstraintLayout  
 - Build System: Gradle
 
+## Tools Used
+- Android Studio
+- Google Gemini
+   - Gemini was used as a development aid to assist with debugging, improving code structure, and enhancing UI animation components. This includes the implementation of the flip card animation and the splash screen GIF using Glide.
+
+## Acknowledgements
+Some parts of the code were assisted by Google Gemini and ChatGPT.
+
 ## Version Control (GitHub)
 Version control was managed using GitHub. A repository was created to store and manage the project. Code was regularly committed to track progress. Clear commit messages were used to describe changes. This allowed easy tracking, collaboration, and rollback if needed.
 
@@ -87,20 +101,6 @@ This screen displays personalized activity suggestions generated based on the us
 
 ## Conclusion
 Cues. demonstrates how simple design and thoughtful logic can improve everyday decision-making. By combining mood and time-based inputs, the app delivers quick, meaningful suggestions in a calm and engaging way.
-
-## Author
-- Lethabo Mohlala
-
-## Description
-This project was developed as part of an academic assignment.
-
-## Tools Used
-- Android Studio
-- Google Gemini
-   - Gemini was used as a development aid to assist with debugging, improving code structure, and enhancing UI animation components. This includes the implementation of the flip card animation and the splash screen GIF using Glide.
-
-## Acknowledgements
-Some parts of the code were assisted by Google Gemini and ChatGPT.
 
 ## References
 Google. 2026. _Gemini (AI assistant)_. [Software] Available at: https://ai.google.dev/  [Accessed 31 March 2026].
