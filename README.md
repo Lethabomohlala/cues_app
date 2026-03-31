@@ -104,5 +104,6 @@ Some parts of the code were assisted by Google Gemini AI.
 
 ## References
 Google. 2026. _Gemini (AI assistant)_. [Software] Available at: https://ai.google.dev/ [Accessed 31 Mar. 2026].
+
 OpenAI. 2026. _ChatGPT (GPT-5.3)_. [Large language model]. Available at: https://chat.openai.com [Accessed 31 Mar. 2026].
 
