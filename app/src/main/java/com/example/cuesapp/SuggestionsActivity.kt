@@ -30,12 +30,14 @@ class SuggestionsActivity : AppCompatActivity() {
         }
 
         // Access the views from the included layout
+        // Code assisted by Google Gemini (Android Studio AI)
         val cardContainer = findViewById<FrameLayout>(R.id.cardContainer)
         val cardFront = findViewById<LinearLayout>(R.id.cardFront)
         val cardBack = findViewById<LinearLayout>(R.id.cardBack)
         val tvEnjoyDay = findViewById<TextView>(R.id.tvEnjoyDay)
 
         // camera distance
+        // Code assisted by Google Gemini (Android Studio AI)
         val scale = resources.displayMetrics.density
         cardFront.cameraDistance = 10000 * scale
         cardBack.cameraDistance = 10000 * scale
@@ -89,6 +91,7 @@ class SuggestionsActivity : AppCompatActivity() {
         val tvBackSuggestion2 = findViewById<TextView>(R.id.tvBackSuggestion2)
 
         // Set the correct text color for the back card based on mood
+        // Code assisted by Google Gemini (Android Studio AI)
         val textColorId = when (mood) {
             "energetic" -> R.color.card_energetic
             "calm" -> R.color.card_calm
@@ -248,6 +251,7 @@ class SuggestionsActivity : AppCompatActivity() {
         }
     }
 
+    // Code assisted by Google Gemini (Android Studio AI)
     private fun flipCard(front: View, back: View) {
         val outAnim = AnimatorInflater.loadAnimator(this, R.animator.flip_out)
         val inAnim = AnimatorInflater.loadAnimator(this, R.animator.flip_in)

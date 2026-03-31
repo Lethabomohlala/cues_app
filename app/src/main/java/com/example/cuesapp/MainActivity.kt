@@ -49,6 +49,7 @@ class MainActivity : AppCompatActivity() {
         val validTimes = listOf("morning", "afternoon", "evening", "night")
 
         // Error handling for input as the user types
+        // Code assisted by Google Gemini (Android Studio AI)
         inputText.doOnTextChanged { text, _, _, _ ->
             val input = text?.toString()?.trim() ?: ""
             when {
@@ -84,6 +85,7 @@ class MainActivity : AppCompatActivity() {
                 button.isSelected = true
 
                 // Fade animation logic
+                // Code assisted by Google Gemini (Android Studio AI)
                 val fadeOut = AlphaAnimation(1.0f, 0.0f)
                 fadeOut.duration = 200
 

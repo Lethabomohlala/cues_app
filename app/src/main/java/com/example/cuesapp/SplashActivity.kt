@@ -22,6 +22,7 @@ class SplashActivity : AppCompatActivity() {
         val ivSplashGif = findViewById<ImageView>(R.id.ivSplashGif)
 
         // Load the cloud_jump GIF using Glide
+        // Code assisted by Google Gemini (Android Studio AI)
         try {
             Glide.with(this)
                 .asGif()
@@ -32,6 +33,7 @@ class SplashActivity : AppCompatActivity() {
         }
 
         // Navigate to MainActivity after 3 seconds (or match the GIF duration)
+        // Code assisted by Google Gemini (Android Studio AI)
         Handler(Looper.getMainLooper()).postDelayed({
             startActivity(Intent(this, MainActivity::class.java))
             finish()
