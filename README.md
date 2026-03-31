@@ -4,6 +4,10 @@
 
 ![Build Status](https://github.com/Lethabomohlala/cues_app/actions/workflows/build.yml/badge.svg) 
 
+## Youtube Link
+### Demo Video
+Watch the app in action: https://youtu.be/8OqIWdSVxyM
+
 ## Meaning Behind “CUES”
 Cues. represents subtle guidance- the small signals that help us make decisions in everyday life. Just like changes in light or mood throughout the day, cues influence our behaviour naturally. This app embraces that idea by offering gentle suggestions, helping users make decisions without overthinking or feeling overwhelmed.
 
@@ -92,12 +96,13 @@ This project was developed as part of an academic assignment.
 
 ## Tools Used
 - Android Studio
-- Google Gemini (AI assistant for and debugging)
+- Google Gemini
+   - Gemini was used as a development aid to assist with debugging, improving code structure, and enhancing UI animation components. This includes the implementation of the flip card animation and the splash screen GIF using Glide.
 
 ## Acknowledgements
 Some parts of the code were assisted by Google Gemini AI.
 
 ## References
-Google. 2026. ~Gemini (AI assistant)~. [Software] Available at: https://ai.google.dev/ [Accessed 31 Mar. 2026].
-OpenAI. 2026. ChatGPT (GPT-5.3) [Large language model]. Available at: https://chat.openai.com [Accessed 31 Mar. 2026].
+Google. 2026. _Gemini (AI assistant)_. [Software] Available at: https://ai.google.dev/ [Accessed 31 Mar. 2026].
+OpenAI. 2026. _ChatGPT (GPT-5.3)_. [Large language model]. Available at: https://chat.openai.com [Accessed 31 Mar. 2026].
 
