@@ -100,7 +100,7 @@ This project was developed as part of an academic assignment.
    - Gemini was used as a development aid to assist with debugging, improving code structure, and enhancing UI animation components. This includes the implementation of the flip card animation and the splash screen GIF using Glide.
 
 ## Acknowledgements
-Some parts of the code were assisted by Google Gemini AI.
+Some parts of the code were assisted by Google Gemini and ChatGPT.
 
 ## References
 Google. 2026. _Gemini (AI assistant)_. [Software] Available at: https://ai.google.dev/  [Accessed 31 March 2026].
