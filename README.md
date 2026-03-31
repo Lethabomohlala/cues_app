@@ -84,3 +84,20 @@ This screen displays personalized activity suggestions generated based on the us
 ## Conclusion
 Cues. demonstrates how simple design and thoughtful logic can improve everyday decision-making. By combining mood and time-based inputs, the app delivers quick, meaningful suggestions in a calm and engaging way.
 
+## Author
+- Lethabo Mohlala
+
+## Description
+This project was developed as part of an academic assignment.
+
+## Tools Used
+- Android Studio
+- Google Gemini (AI assistant for and debugging)
+
+## Acknowledgements
+Some parts of the code were assisted by Google Gemini AI.
+
+## References
+Google. 2026. ~Gemini (AI assistant)~. [Software] Available at: https://ai.google.dev/ [Accessed 31 Mar. 2026].
+OpenAI. 2026. ChatGPT (GPT-5.3) [Large language model]. Available at: https://chat.openai.com [Accessed 31 Mar. 2026].
+
