@@ -103,7 +103,7 @@ This project was developed as part of an academic assignment.
 Some parts of the code were assisted by Google Gemini AI.
 
 ## References
-Google. 2026. _Gemini (AI assistant)_. [Software] Available at: https://ai.google.dev/ [Accessed 31 Mar. 2026].
+Google. 2026. _Gemini (AI assistant)_. [Software] Available at: https://ai.google.dev/  [Accessed 31 March 2026].
 
-OpenAI. 2026. _ChatGPT (GPT-5.3)_. [Large language model]. Available at: https://chat.openai.com [Accessed 31 Mar. 2026].
+OpenAI. 2026. _ChatGPT (GPT-5.3)_. [Large language model]. Available at: https://chat.openai.com  [Accessed 31 March 2026].
 
